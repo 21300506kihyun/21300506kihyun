@@ -17,3 +17,16 @@ Operating System
  
 ### 21300506_midterm2.c
  Linux OS에서 ordinary pipe를 사용하여 부모 프로세스와 자식프로세스 간의 데이터 전송 프로그램
+ 
+### 21300506_hw5.c
+Implement producer-consumer synchronization using
+pthread, POSIX mutex locks, and unnamed
+semaphores
+◼ Develop on Ubuntu Linux (Google cloud or VirtualBox) using
+vim and gcc.
+Ex) gcc hw5.c –pthread
+
+### 21300506_hw6.c
+Implement the address translation algorithm of paging
+system
+
